@@ -4,15 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="40f91f5b-f5a1-4490-9dfd-69658123f7e8" name="Changes" comment="Task_1.py&#10;Task2.py">
+    <list default="true" id="40f91f5b-f5a1-4490-9dfd-69658123f7e8" name="Changes" comment="Learning_008.py">
       <change afterPath="$PROJECT_DIR$/June_10/Task_03.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/June_13/Learning_008.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/June_13/Learning_009.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/June_13/Learning_010.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/June_13/Learning_011.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/June_13/Learning_012.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/June_13/Task_01.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/June_13/Task_02.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/June_15/Learning_013.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/June_15/Learning_014.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/June_15/Learning_15.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/June_15/Learning_16.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/June_10/Learning_004.py" beforeDir="false" afterPath="$PROJECT_DIR$/June_10/Learning_004.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/python3x/Learning_001.py" beforeDir="false" afterPath="$PROJECT_DIR$/June_7/Learning_001.py" afterDir="false" />
@@ -57,30 +54,33 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Python.Learning_001.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Learning_002.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Learning_003.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Learning_004.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Learning_005.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Learning_006.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Learning_007.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Learning_008.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Learning_009.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Learning_010.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Learning_011.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Learning_012.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Task 2.executor&quot;: &quot;Debug&quot;,
-    &quot;Python.Task2.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Task_02.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Task_1.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python.Learning_001.executor": "Run",
+    "Python.Learning_002.executor": "Run",
+    "Python.Learning_003.executor": "Run",
+    "Python.Learning_004.executor": "Run",
+    "Python.Learning_005.executor": "Run",
+    "Python.Learning_006.executor": "Run",
+    "Python.Learning_007.executor": "Run",
+    "Python.Learning_008.executor": "Run",
+    "Python.Learning_009.executor": "Run",
+    "Python.Learning_010.executor": "Run",
+    "Python.Learning_011.executor": "Run",
+    "Python.Learning_012.executor": "Run",
+    "Python.Learning_013.executor": "Run",
+    "Python.Learning_014.executor": "Run",
+    "Python.Learning_16.executor": "Run",
+    "Python.Task 2.executor": "Debug",
+    "Python.Task2.executor": "Run",
+    "Python.Task_02.executor": "Run",
+    "Python.Task_1.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master"
   }
-}</component>
-  <component name="RunManager" selected="Python.Task_02">
-    <configuration name="Learning_010" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+}]]></component>
+  <component name="RunManager" selected="Python.Learning_16">
+    <configuration name="Learning_013" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="pythonProject1" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -89,11 +89,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/June_13" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/June_15" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/June_13/Learning_010.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/June_15/Learning_013.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -102,7 +102,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Learning_011" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Learning_014" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="pythonProject1" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -111,11 +111,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/June_13" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/June_15" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/June_13/Learning_011.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/June_15/Learning_014.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -124,7 +124,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Learning_012" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Learning_16" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="pythonProject1" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -133,11 +133,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/June_13" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/June_15" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/June_13/Learning_012.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/June_15/Learning_16.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -192,11 +192,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Learning_16" />
+        <item itemvalue="Python.Learning_014" />
+        <item itemvalue="Python.Learning_013" />
         <item itemvalue="Python.Task_02" />
         <item itemvalue="Python.Task_01" />
-        <item itemvalue="Python.Learning_012" />
-        <item itemvalue="Python.Learning_011" />
-        <item itemvalue="Python.Learning_010" />
       </list>
     </recent_temporary>
   </component>
@@ -280,7 +280,15 @@
       <option name="project" value="LOCAL" />
       <updated>1718021929223</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="Learning_008.py">
+      <option name="closed" value="true" />
+      <created>1718306084233</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1718306084233</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -290,6 +298,7 @@
     <MESSAGE value="Learning_001.py&#10;Learning_002.py&#10;Learning_003.py" />
     <MESSAGE value="Learning_004.py&#10;Learning_005.py&#10;Learning_006.py&#10;Learning_007.py" />
     <MESSAGE value="Task_1.py&#10;Task2.py" />
-    <option name="LAST_COMMIT_MESSAGE" value="Task_1.py&#10;Task2.py" />
+    <MESSAGE value="Learning_008.py" />
+    <option name="LAST_COMMIT_MESSAGE" value="Learning_008.py" />
   </component>
 </project>
