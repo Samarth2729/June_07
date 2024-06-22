@@ -4,13 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="40f91f5b-f5a1-4490-9dfd-69658123f7e8" name="Changes" comment="Learning_017.py&#10;Learning_018.py&#10;Learning_019.py">
-      <change afterPath="$PROJECT_DIR$/June_19/Learning_020.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/June_19/Learning_021.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/June_19/Learning_022.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/June_19/Learning_023.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/June_19/Learning_024.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/June_19/Learning_025.py" afterDir="false" />
+    <list default="true" id="40f91f5b-f5a1-4490-9dfd-69658123f7e8" name="Changes" comment="Learning_020.py&#10;Learning_021.py&#10;Learning_022.py&#10;Learning_023.py&#10;Learning_024.py&#10;Learning_025.py">
+      <change afterPath="$PROJECT_DIR$/June_21/Learning_026.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/June_21/Learning_027.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/June_21/Learning_028.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/June_21/Learning_029.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/June_21/Learning_030.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/June_21/Learning_031.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/June_21/Learning_032.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -75,7 +76,14 @@
     "Python.Learning_022.executor": "Run",
     "Python.Learning_023.executor": "Run",
     "Python.Learning_024.executor": "Run",
+    "Python.Learning_026.executor": "Run",
+    "Python.Learning_027.executor": "Run",
+    "Python.Learning_028.executor": "Run",
+    "Python.Learning_032.executor": "Run",
     "Python.Learning_16.executor": "Run",
+    "Python.Learning_29.executor": "Run",
+    "Python.Learning_30.executor": "Run",
+    "Python.Learning_31.executor": "Run",
     "Python.Task 2.executor": "Debug",
     "Python.Task2.executor": "Run",
     "Python.Task_02.executor": "Run",
@@ -84,8 +92,8 @@
     "git-widget-placeholder": "master"
   }
 }]]></component>
-  <component name="RunManager" selected="Python.Learning_024">
-    <configuration name="Learning_020" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.Learning_032">
+    <configuration name="Learning_028" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="pythonProject1" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -94,11 +102,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/June_19" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/June_21" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/June_19/Learning_020.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/June_21/Learning_028.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -107,7 +115,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Learning_021" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Learning_029" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="pythonProject1" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -116,11 +124,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/June_19" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/June_21" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/June_19/Learning_021.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\samar\PycharmProjects\pythonProject1\June_21\Learning_029.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -129,7 +137,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Learning_022" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Learning_030" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="pythonProject1" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -138,11 +146,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/June_19" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/June_21" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/June_19/Learning_022.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\samar\PycharmProjects\pythonProject1\June_21\Learning_030.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -151,7 +159,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Learning_023" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Learning_031" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="pythonProject1" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -160,11 +168,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/June_19" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/June_21" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/June_19/Learning_023.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\samar\PycharmProjects\pythonProject1\June_21\Learning_031.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -173,7 +181,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Learning_024" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Learning_032" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="pythonProject1" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -182,11 +190,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/June_19" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/June_21" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/June_19/Learning_024.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/June_21/Learning_032.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -197,11 +205,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.Learning_024" />
-        <item itemvalue="Python.Learning_022" />
-        <item itemvalue="Python.Learning_023" />
-        <item itemvalue="Python.Learning_021" />
-        <item itemvalue="Python.Learning_020" />
+        <item itemvalue="Python.Learning_032" />
+        <item itemvalue="Python.Learning_031" />
+        <item itemvalue="Python.Learning_030" />
+        <item itemvalue="Python.Learning_029" />
+        <item itemvalue="Python.Learning_028" />
       </list>
     </recent_temporary>
   </component>
@@ -309,7 +317,15 @@
       <option name="project" value="LOCAL" />
       <updated>1718635109563</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="Learning_020.py&#10;Learning_021.py&#10;Learning_022.py&#10;Learning_023.py&#10;Learning_024.py&#10;Learning_025.py">
+      <option name="closed" value="true" />
+      <created>1718803478654</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1718803478654</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -322,6 +338,7 @@
     <MESSAGE value="Learning_008.py" />
     <MESSAGE value="Learning_013.py&#10;Learning_014.py&#10;Learning_15.py&#10;Learning_16.py" />
     <MESSAGE value="Learning_017.py&#10;Learning_018.py&#10;Learning_019.py" />
-    <option name="LAST_COMMIT_MESSAGE" value="Learning_017.py&#10;Learning_018.py&#10;Learning_019.py" />
+    <MESSAGE value="Learning_020.py&#10;Learning_021.py&#10;Learning_022.py&#10;Learning_023.py&#10;Learning_024.py&#10;Learning_025.py" />
+    <option name="LAST_COMMIT_MESSAGE" value="Learning_020.py&#10;Learning_021.py&#10;Learning_022.py&#10;Learning_023.py&#10;Learning_024.py&#10;Learning_025.py" />
   </component>
 </project>
