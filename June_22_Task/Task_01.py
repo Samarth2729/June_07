@@ -6,6 +6,10 @@ for i in range(1, n+1):
     print("* " * i)
     print("\n")
 
+# revere traingle star pattern
+for i in range(n - 1, 0, -1):
+    print('*' * i)
+
 # Palindrome string
 
 def is_palindrome(word):
