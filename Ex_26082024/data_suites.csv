@@ -1,0 +1,8 @@
+"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
+"This test creates a booking, deletes it, and verifies that it no longer exists.","3961","Delete Booking","Ex_26082024","Tue Aug 13 15:57:57 IST 2024","passed","Tue Aug 13 15:58:01 IST 2024","","Integration_TC2","",""
+"This test fetches a booking by ID to verify its existence.","2585","Get Booking by ID","Ex_26082024","Tue Aug 13 15:58:01 IST 2024","passed","Tue Aug 13 15:58:04 IST 2024","","Integration_TC2","",""
+"This test updates an existing booking and verifies the update by retrieving the booking by ID.","6889","Update Booking and Verify","Ex_26082024","Tue Aug 13 15:58:31 IST 2024","passed","Tue Aug 13 15:58:38 IST 2024","","Integration_TC3","",""
+"","1391","#TC5 - Invalid creation with wrong payload or wrong JSON","Ex_26082024","Tue Aug 13 15:59:10 IST 2024","passed","Tue Aug 13 15:59:12 IST 2024","","Integration_TC5","",""
+"This test verifies that the PATCH request successfully updates booking details.","3968","Positive Test for PATCH Request","Ex_26082024","Tue Aug 13 15:57:39 IST 2024","passed","Tue Aug 13 15:57:43 IST 2024","","Integration_TC1","",""
+"This test tries to update a deleted booking and expects a 405 Method Not Allowed error.","5583","Update Deleted Booking","Ex_26082024","Tue Aug 13 15:59:29 IST 2024","passed","Tue Aug 13 15:59:35 IST 2024","","Integration_TC6","",""
+"This test creates a booking, deletes it, and verifies that it no longer exists.","2520","Delete Booking","Ex_26082024","Tue Aug 13 15:58:56 IST 2024","passed","Tue Aug 13 15:58:59 IST 2024","","Integration_TC4","",""
